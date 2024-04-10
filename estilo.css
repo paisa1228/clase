@@ -1,0 +1,15 @@
+body{
+    background: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    color: aqua;
+
+}
+br{
+    background: red;
+    width: 1rem;
+}
+h1
+{
+    color: blue;
+}
